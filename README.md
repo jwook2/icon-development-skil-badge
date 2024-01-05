@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/window-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=black">
+  <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 </div>
 
 ## FrontEnd
@@ -91,6 +95,10 @@
     <img src="https://img.shields.io/badge/window-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
     <img src="https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <img src="https://img.shields.io/badge/aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=black">
+    <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 ## FrontEnd
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
